@@ -1,0 +1,14 @@
+com/applicationname/ApplicationnameApplication.class
+com/applicationname/dao/GenericDAO.class
+com/applicationname/util/DAOUtil.class
+com/applicationname/service/impl/GenericServiceImpl.class
+com/applicationname/dto/common/FilterDTO.class
+com/applicationname/dto/ColumnDTO.class
+com/applicationname/util/Util.class
+com/applicationname/dto/common/ResultDTO.class
+com/applicationname/dto/common/RequestDTO.class
+com/applicationname/util/ControllerUtils.class
+com/applicationname/dto/common/SortDTO.class
+com/applicationname/dao/impl/GenericDAOImpl.class
+com/applicationname/service/GenericService.class
+com/applicationname/converter/Converter.class

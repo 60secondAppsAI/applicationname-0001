@@ -1,0 +1,14 @@
+/applicationname/src/main/java/com/applicationname/dto/common/SortDTO.java
+/applicationname/src/main/java/com/applicationname/service/GenericService.java
+/applicationname/src/main/java/com/applicationname/dto/common/FilterDTO.java
+/applicationname/src/main/java/com/applicationname/util/DAOUtil.java
+/applicationname/src/main/java/com/applicationname/util/ControllerUtils.java
+/applicationname/src/main/java/com/applicationname/service/impl/GenericServiceImpl.java
+/applicationname/src/main/java/com/applicationname/dao/impl/GenericDAOImpl.java
+/applicationname/src/main/java/com/applicationname/ApplicationnameApplication.java
+/applicationname/src/main/java/com/applicationname/dto/common/RequestDTO.java
+/applicationname/src/main/java/com/applicationname/dao/GenericDAO.java
+/applicationname/src/main/java/com/applicationname/dto/ColumnDTO.java
+/applicationname/src/main/java/com/applicationname/util/Util.java
+/applicationname/src/main/java/com/applicationname/dto/common/ResultDTO.java
+/applicationname/src/main/java/com/applicationname/converter/Converter.java
